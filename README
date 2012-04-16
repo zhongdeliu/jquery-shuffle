@@ -1,1 +1,20 @@
-My first README
+jQuery Shuffle Plugin 0.2
+==========================
+
+jQuery Shuffle Plugin is a simple plugin that shuffles HTML Elements on the page. 
+
+### Installation
+1. Download/Load jQuery library into your page
+2. Download and load jQuery Shuffle Plugin into your page
+3. Setup your html and script elements
+
+### Basic Usage
+    $('ul').shuffle();
+
+
+
+Version Info
+------------
+Version: 0.1
+Date: 16-Apr-2012
+Author: Zhongde Liu <zhongdeliu@googlemail.com> 
